@@ -6,6 +6,6 @@ The focus of my work is mainly on statistical rainfall post-processing to improv
 
 Connect with me on:
 
-<a href="https://twitter.com/PillosuFatima?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Twitter</a>
-<a href="https://www.facebook.com/profile.php?id=1215565240" class="facebook-follow-button" data-show-count="false">Facebook</a>
-<a href="https://www.linkedin.com/feed/?trk=nav_responsive_tab_home" class="linkedin-follow-button" data-show-count="false">Linkedin</a>
+<a href="https://twitter.com/PillosuFatima?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Twitter</a> | 
+<a href="https://www.facebook.com/profile.php?id=1215565240" class="facebook-follow-button" data-show-count="false">Facebook</a> | 
+<a href="https://www.linkedin.com/feed/?trk=nav_responsive_tab_home" class="linkedin-follow-button" data-show-count="false">Linkedin</a> | 
